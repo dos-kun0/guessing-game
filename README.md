@@ -13,4 +13,4 @@
 
 python guessing_game.py
 
-5. Choose a difficulty level (1 for Easy, 2 for Hard) and start guessing!
+5. Choose a difficulty level (Easy or Hard) and start guessing!
