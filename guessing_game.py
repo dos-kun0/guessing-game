@@ -1,13 +1,13 @@
 import random
 
 # Ask the player to choose a level
-print("Choose a level:")
-print("1 = Easy (10 tries)")
-print("2 = Hard (5 tries)")
+print("Choose a level!")
+print("Easy = 10 tries")
+print("Hard = 5 tries")
 
-level = input("Enter 1 or 2: ")
+level = input("Input chosen level: ")
 
-if level == "1":
+if level == "Easy":
     attempts = 10
 else:
     attempts = 5
