@@ -11,6 +11,6 @@
 3. Open a terminal in the project folder.
 4. Run the following command:
 
-python guessing_game.py
+   python guessing_game.py
 
 5. Choose a difficulty level (Easy or Hard) and start guessing!
